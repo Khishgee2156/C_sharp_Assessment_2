@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\C#\assessment_2_code\Assessment_2\Assessment_2\bin\Debug\Assessment_2.exe.config
+C:\Users\Dell\Desktop\C#\assessment_2_code\Assessment_2\Assessment_2\bin\Debug\Assessment_2.exe
+C:\Users\Dell\Desktop\C#\assessment_2_code\Assessment_2\Assessment_2\bin\Debug\Assessment_2.pdb
+C:\Users\Dell\Desktop\C#\assessment_2_code\Assessment_2\Assessment_2\obj\Debug\Assessment_2.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\C#\assessment_2_code\Assessment_2\Assessment_2\obj\Debug\Assessment_2.frmMain.resources
+C:\Users\Dell\Desktop\C#\assessment_2_code\Assessment_2\Assessment_2\obj\Debug\Assessment_2.Properties.Resources.resources
+C:\Users\Dell\Desktop\C#\assessment_2_code\Assessment_2\Assessment_2\obj\Debug\Assessment_2.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\C#\assessment_2_code\Assessment_2\Assessment_2\obj\Debug\Assessment_2.exe
+C:\Users\Dell\Desktop\C#\assessment_2_code\Assessment_2\Assessment_2\obj\Debug\Assessment_2.pdb
+C:\Users\Dell\Desktop\C#\assessment_2_code\Assessment_2\Assessment_2\obj\Debug\Assessment_2.frmChild_2D_graphics.resources
+C:\Users\Dell\Desktop\C#\assessment_2_code\Assessment_2\Assessment_2\obj\Debug\Assessment_2.frmChild_drag_and_drop.resources
+C:\Users\Dell\Desktop\C#\assessment_2_code\Assessment_2\Assessment_2\obj\Debug\Assessment_2.frmChild_nested_class.resources
+C:\Users\Dell\Desktop\C#\assessment_2_code\Assessment_2\Assessment_2\obj\Debug\Assessment_2.frmChild_comparator_demo.resources
